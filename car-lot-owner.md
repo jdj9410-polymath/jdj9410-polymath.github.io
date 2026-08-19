@@ -14,5 +14,4 @@ Independent automotive retail business owner and licensed dealership operator sp
   * Supervised multi-point pre-sale safety inspections, cost-efficient mechanical restoration, and cosmetic vehicle detailing workflows.
   * Formulated customer financing structures, localized underwriting parameters, and payment recovery management.
 
-[Back to Main Portfolio (Home)](/)
-
+[Back to Main Portfolio](https://jdj9410-polymath.github.io) 
