@@ -30,8 +30,8 @@ Click a field below to view my specific work history, skills, and projects in th
 * **[Mechanic Journeyman](/learnmechanic.md)** - Specialized automotive repair, diagnostics, and mechanical engineering.
 * **[Heavy Truck Mechanic](/mechanic.md)**
 Received ASE Master Heavy Truck Certification 
-* **[Fire Service](/fire-service)** - Emergency response, public safety, and crisis management.
-* **[Wildlife Biologist](/wildlife-biologist)** - Environmental research, species conservation, and ecological management.
-* **[Custom Car & Auto Restoration](/custom-cars)** - Custom fabrication, classic car rebuilding, and shop management.
-* **[Used Car Lot Owner](/car-lot-owner)** - Business operations, automotive sales, inventory sourcing, 
+* **[Fire Service](/fire-service.md)** - Emergency response, public safety, and crisis management.
+* **[Wildlife Biologist](/wildlife-biologist.md)** - Environmental research, species conservation, and ecological management.
+* **[Custom Car & Auto Restoration](/custom-cars.md)** - Custom fabrication, classic car rebuilding, and shop management.
+* **[Used Car Lot Owner](/car-lot-owner.md)** - Business operations, automotive sales, inventory sourcing, 
 
