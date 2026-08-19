@@ -1,7 +1,8 @@
 # Info 
 
 Jack D Jernigan
-Retired based in Northeast Texas, USA
+
+Retired and based in Northeast Texas, USA
 
 👋 About Me
 I am a former mechanic, Former Fire Service, Former Wildlfe Biologist, Former Automotive Shop Owner
