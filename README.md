@@ -4,7 +4,7 @@ Jack D Jernigan
 
 Retired and based in Northeast Texas, USA
 
-I am a former heavy truck and fire apparatus mechanic, former Fire Service member, Former TPWD wildlfe biologist, former automotive restoration shop owner
+I am a former heavy truck and fire apparatus mechanic, former fire service member, former TPWD wildlfe biologist, former automotive restoration shop owner
 
 ## 🚐 Present Era & Technical Horizons
 Following an exceptional multi-decade professional run across public safety, ecological sciences, and custom automotive engineering, health transitions led to formal retirement in the fall of 2025. 
