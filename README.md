@@ -7,17 +7,6 @@ Retired and based in Northeast Texas, USA
 👋 About Me
 I am a former mechanic, Former Fire Service, Former Wildlfe Biologist, Former Automotive Shop Owner
 
-Specializing in Heavy Truck Mechanic, Fire Equipment Tech, Wildlife Habitat Management and Custom Car Fab and Auto Restoration. 
-
-I focus on delivering skillsets that help me further travels in our motorhome.
-
-🛠 Skills & Expertise
-Core Skills: Heavy truck electrical diagnosis and repair, Learning new skills and information, Scientific Analysis
-
-Tools & Technologies: Engine Electronic Diagnosis, Metal Fabrication, Automotive Electrical, Scientific Analysis
-
-Industries: Heavy truck repair ,[Fire Service, Auto restoration, Wildlife Habitat Management with state agency
-
 ## 🚐 Present Era & Technical Horizons
 Following an exceptional multi-decade professional run across public safety, ecological sciences, and custom automotive engineering, health transitions led to formal retirement in the fall of 2025. 
 
