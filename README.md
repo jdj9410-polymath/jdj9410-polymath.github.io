@@ -27,7 +27,7 @@ Email: jdj9410@gmail.com
 ## 💼 Fields of Expertise
 Click a field below to view my specific work history, skills, and projects in that industry:
 
-* **[Learning To Mechanic](/learnmechanic.md)** - Specialized automotive repair, diagnostics, and mechanical engineering.
+* **[Mechanic Journeyman](/learnmechanic.md)** - Specialized automotive repair, diagnostics, and mechanical engineering.
 * **[Heavy Truck Mechanic](/mechanic.md)**
 Received ASE Master Heavy Truck Certification 
 * **[Fire Service](/fire-service)** - Emergency response, public safety, and crisis management.
