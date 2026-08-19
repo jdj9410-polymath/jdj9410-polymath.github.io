@@ -1,8 +1,8 @@
 # Info 
 
-Jack D Jernigan
+Jack Dewayne Jernigan
 
-Retired and based in Northeast Texas, USA
+Retired and based in Northeast Texas, Paris, USA
 
 I am a former heavy truck and fire apparatus mechanic, former fire service member, former TPWD wildlfe biologist, former automotive restoration shop owner
 
