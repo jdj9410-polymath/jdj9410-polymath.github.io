@@ -11,9 +11,9 @@ Over a decade of foundational heavy-vehicle diagnostic and component overhaul ex
 ## 📈 Detailed Chronology
 * **Apprentice to Journeyman Automotive Mechanic** (1978 – 1985)
   * Dedicated 7 years to intensive, hands-on mechanical repair training.
-  * Mastered manual drivetrain rebuilds, engine block line-boring, and primitive to advanced electrical diagnostics.
+  * Mastered manual drivetrain rebuilds, engine block prep, and primitive to advanced electrical diagnostics.
 * **Heavy Truck Fleet Mechanic & Specialty Engineer** (1985 – 1995)
-  * Managed comprehensive maintenance schedules for light fleets and complex multi-axle heavy transport trucks.
+  * Managed comprehensive maintenance schedules for auto and light truck fleet services and complex multi-axle heavy transport trucks.
   * Earned and maintained the premium ASE Master Heavy Truck certification criteria.
 
 [Back to Main Portfolio](https://jdj9410-polymath.github.io) 
