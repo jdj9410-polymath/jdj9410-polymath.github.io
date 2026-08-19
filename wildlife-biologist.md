@@ -16,5 +16,5 @@ Professional Wildlife Biologist with a Bachelor of Science degree from Texas A&M
 * **State Wildlife Biologist | Texas Parks and Wildlife Department (TPWD)** (Oct 2000 – 2015)
   * Headed regional data collection models, rigorous statistical experimental design, and avian/mammal biological tracking infrastructure on the Texas Rolling Plains.
 
-[Back to Main Portfolio (Home)](index.html)
+[Back to Main Portfolio (./)](jdj9410-polymath.github.io/README.md)
 
