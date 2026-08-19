@@ -35,6 +35,7 @@ Email: jdj9410@gmail.com
 Click a field below to view my specific work history, skills, and projects in that industry:
 
 * **[Learning To Mechanic](/learnmechanic.md)** - Specialized automotive repair, diagnostics, and mechanical engineering.
+* * **[Heavy Truck Mechanic](/mechanic.md)** 
 * **[Fire Service](/fire-service)** - Emergency response, public safety, and crisis management.
 * **[Wildlife Biologist](/wildlife-biologist)** - Environmental research, species conservation, and ecological management.
 * **[Custom Car & Auto Restoration](/custom-cars)** - Custom fabrication, classic car rebuilding, and shop management.
