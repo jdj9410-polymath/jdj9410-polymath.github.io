@@ -13,5 +13,5 @@ Founder and Principal Operations Officer of a comprehensive, top-tier classic au
   * Managed all technical, industrial, and artistic workflows in-house, ensuring zero dependence on external machine shops or subcontractors.
   * Successfully built customized performance road cars and completed verified historically accurate frame-off restorations.
 
-[Back to Main Portfolio (Home)](/)
+[Back to Main Portfolio](https://jdj9410-polymath.github.io) 
 
