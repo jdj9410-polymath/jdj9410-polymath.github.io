@@ -14,5 +14,5 @@ Active service within municipal emergency services from 1984 to 1993, blending s
   * Maintained, modified, and repaired frontline firefighting apparatus to guarantee zero downtime during fireground actions.
   * Implemented specialized physical modifications to truck beds, equipment racks, and water delivery networks to optimize localized structural response profiles.
 
-[Back to Main Portfolio (Home)](/)
+[Back to Main Portfolio](https://jdj9410-polymath.github.io) 
 
