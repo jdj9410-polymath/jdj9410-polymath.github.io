@@ -16,5 +16,5 @@ Over a decade of foundational heavy-vehicle diagnostic and component overhaul ex
   * Managed comprehensive maintenance schedules for light fleets and complex multi-axle heavy transport trucks.
   * Earned and maintained the premium ASE Master Heavy Truck certification criteria.
 
-[Back to Main Portfolio] (jdj9410-polymath.github.io/)(/)
+[Back to Main Portfolio](https://jdj9410-polymath.github.io) 
 
