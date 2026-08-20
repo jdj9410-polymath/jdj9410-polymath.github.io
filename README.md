@@ -19,7 +19,7 @@ Lithium battery bank project] - Have purchased LiFePo 8d batteries, 10,000 watt 
 
 🌐 Connect With Me
 
-LinkedIn:<a href="https://linkedin.com" target="_blank">LinkedIn</a>
+LinkedIn: <a href="https://linkedin.com" target="_blank">LinkedIn</a>
 
 Email: jdj9410@gmail.com
 
