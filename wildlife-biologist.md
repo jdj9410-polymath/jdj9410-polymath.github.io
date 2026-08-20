@@ -5,7 +5,7 @@ Professional Wildlife Biologist with a Bachelor of Science degree from Texas A&M
 
 ## 🧰 Specialized Scientific Competencies
 * **Species Research Methods:**
-Resercher in the Male Rio Grande Turkey Survival and Movements in the Texas Panhandle and Southwestern Kansas study. Publication J. of Wildlife Management 1 October 2006.
+Researcher in the Male Rio Grande Turkey Survival and Movements in the Texas Panhandle and Southwestern Kansas study. Publication J. of Wildlife Management 1 October 2006.
 Advanced populations census work covering quail, songbirds, Mississippi Kites, doves, small mammals, herpetofauna, and white-tailed deer.
 * **Range & Land Management:** Certified Burn Boss executing complex prescribed ecological fires. Field execution of Allan Savory's high-intensity, short-duration brittle land rotational grazing layout.
 * **Heavy Logistics & Certifications:** Certified explosives handler for remote wildlife trapping with drop and rocket-netting. Proficient in industrial site maintenance, including operating and repairing heavy earth-moving machinery (Caterpillar Dozers, Motorgraders, and structural welding/fabrication).
