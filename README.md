@@ -35,3 +35,4 @@ Received ASE Master Heavy Truck Certification
 * **[Custom Car & Auto Restoration](/custom-cars.md)** - Custom fabrication, classic car rebuilding, and shop management.
 * **[Used Car Lot Owner](/car-lot-owner.md)** - Business operations, automotive sales, inventory sourcing, 
 
+© 2026 Jack D. Jernigan. All rights reserved.
