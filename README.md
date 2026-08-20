@@ -19,9 +19,10 @@ Prep and modernize a 1998 Holiday Rambler Endeavor for Traveling in retirement -
 
 Lithium battery bank project] - Have purchased LiFePo 8d batteries, 10,000 watt inverter, 200 amp Chargeverter all cables fuse etc for install of components.
 
-🌐 Connect With Me
+🌐 Connect With 
 
-* **LinkedIn:** [https://linkedin.com/in/jack-jernigan-64b5842ba](https://linkedin.com/in/jack-jernigan-64b5842ba)
+
+* **LinkedIn:** [https://www.linkedin.com/in/jack-jernigan-64b5842ba](https://www.linkedin.com/in/jack-jernigan-64b5842ba)
 
 
 Email: jdj9410@gmail.com
