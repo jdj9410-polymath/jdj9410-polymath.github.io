@@ -4,9 +4,11 @@
 Professional Wildlife Biologist with a Bachelor of Science degree from Texas A&M University and graduate-level academic credentials. Extensive field-validated tenure with the Texas Parks and Wildlife Department (TPWD). Recognized expert in experimental field design, telemetry population tracking, controlled prescribed burning, and the regulated application of explosives for conservation trapping and surveys.
 
 ## 🧰 Specialized Scientific Competencies
-* **Species Research Methods:** Specialized in Fecundity and Movement studies of the Rio Grande Turkey. Advanced populations census work covering quail, songbirds, Mississippi Kites, doves, small mammals, herpetofauna, and white-tailed deer.
+* **Species Research Methods:**
+Resercher in the Male Rio Grande Turkey Survival and Movements in the Texas Panhandle and Southwestern Kansas study. Publication J. of Wildlife Management 1 October 2006.
+Advanced populations census work covering quail, songbirds, Mississippi Kites, doves, small mammals, herpetofauna, and white-tailed deer.
 * **Range & Land Management:** Certified Burn Boss executing complex prescribed ecological fires. Field execution of Allan Savory's high-intensity, short-duration brittle land rotational grazing layout.
-* **Heavy Logistics & Certifications:** Certified explosives handler for remote wildlife trapping and survey rocket-netting. Proficient in industrial site maintenance, including operating and repairing heavy earth-moving machinery (Caterpillar Dozers, Motorgraders, and structural welding/fabrication).
+* **Heavy Logistics & Certifications:** Certified explosives handler for remote wildlife trapping with drop and rocket-netting. Proficient in industrial site maintenance, including operating and repairing heavy earth-moving machinery (Caterpillar Dozers, Motorgraders, and structural welding/fabrication).
 
 ## 📈 Academic & Career Milestones
 * **Academic Preparation & Higher Education** (1992 – 2000)
