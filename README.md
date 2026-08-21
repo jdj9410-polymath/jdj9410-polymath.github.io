@@ -1,8 +1,7 @@
 
-# Jack Dewayne Jernigan
-**Retired Professional | Paris, Northeast Texas, USA**
-
 [My LinkedIn Profile](https://linkedin.com)
+
+**Retired Professional | Paris, Northeast Texas, USA**
 
 ---
 
