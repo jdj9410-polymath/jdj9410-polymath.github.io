@@ -8,12 +8,12 @@ Retired and based in Northeast Texas, Paris, USA
 
 I am a former heavy truck and fire apparatus mechanic, former fire service member, former TPWD wildlfe biologist, former automotive restoration shop owner
 
-## 🚐 Present Era & Technical Horizons
+## Present Era & Technical Horizons
 Following an exceptional multi-decade professional run across mechanic trades, public safety, ecological sciences, and custom automotive engineering, health transitions led to formal retirement in the fall of 2025. 
 
 Currently utilizing a lifetime of heavy truck and custom vehicle diagnostics to overhaul and prep a custom **1998 Holiday Rambler 37ft Endeavor** (built on a robust **Freightliner Chassis**). This rolling mobile engineering platform serves as primary transport and operations command for extensive cross-country exploration during retirement
 
-Current motorhome projects
+## Current motorhome projects
 
 Prep and modernize a 1998 Holiday Rambler Endeavor for Traveling in retirement - New airbags, new steer tires, remodel parlor area, upgrade to a multivew camera system.
 
