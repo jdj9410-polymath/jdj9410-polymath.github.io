@@ -44,7 +44,7 @@ The original factory harness is a gray-sheathed bundle utilizing **#1122 Molex 1
 
 The cable bundle internally contains **three distinct shielded coaxial cables** and basic power conductors:
 1. **Video Coax:** Clear outer sheath with a gray core (Used for primary rear view).
-2. **Audio Coax (Parallel Pair):** Grayish sheath and Yellow sheath.
+2. **Audio Coax (Parallel Pair):** Grayish/purple sheath and Yellow sheath.
 3. **Power Conductors:** 1x Red wire (12V+ Positive) and 1x Black wire (Ground).
 
 ---
@@ -54,7 +54,7 @@ If you are only installing **one single rear camera**, you can use the clear-she
 
 However, if you are configuring a **two-camera rear setup** (e.g., Backup + Hitch camera) using the audio lines, you must isolate the parallel lines to prevent signal cross-talk and image ghosting:
 
-> 🚨 **CRITICAL MODIFICATION:** At the rear connector (on the cable side), locate the yellow and grayish shielded coax cables. **Snip the two drain wires** from these cables. Next, **snip the purple coax core** going into the connector terminal, leaving **only the single yellow coax core** connected to the terminal. Failure to isolate these lines will cause immediate video ghosting on your hitch camera feed.
+> 🚨 **CRITICAL MODIFICATION:** At the rear connector (on the cable side), locate the yellow and grayish/purple shielded coax cables. **Snip the two drain wires** from these cables. Next, **snip the purple coax core** going into the connector terminal, leaving **only the single yellow coax core** connected to the terminal. Failure to isolate these lines will cause immediate video ghosting on your hitch camera feed.
 
 <p align="center">
   <img src="molex-wires-close.jpg" alt="Close-up of internal wires" width="450"><br>
