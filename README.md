@@ -27,15 +27,7 @@ Prepping and updating the motorhome for retirement travel:
 * **Interior:** Remodeling the parlor area.
 * **Tech Upgrade:** Upgrading to a multiview camera system.
 
-* ---
-
-## 📖 Technical Guides & Documentation
-I document my custom engineering solutions, wiring workarounds, and fabrication fixes to help other enthusiasts and mechanics. 
-
-👉 **[Explore my Technical How-To Guides Hub](./guides.md)**
-
-
-#### Lithium Battery Bank Installation
+* #### Lithium Battery Bank Installation
 Assembling a high-capacity power system with already-purchased components:
 * **Batteries:** LiFePO4 8D battery bank.
 * **Inverter:** 10,000-watt power inverter.
@@ -43,6 +35,14 @@ Assembling a high-capacity power system with already-purchased components:
 * **Installation:** All necessary heavy-duty cables, fuses, and hardware.
 
 ---
+
+## 📖 Technical Guides & Documentation
+I document my custom engineering solutions, wiring workarounds, and fabrication fixes to help other enthusiasts and mechanics. 
+
+👉 **[Explore my Technical How-To Guides Hub](./guides.md)**
+
+
+
 
 ## 🏁 Hobbies & Interests
 
