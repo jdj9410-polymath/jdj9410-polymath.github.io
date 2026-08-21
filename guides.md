@@ -14,5 +14,6 @@ ead of pulling 37 feet of new lines.*
 * 🛠️ *[Upcoming] Sheet Metal Shaping and Classic Panel Restoration*
 
 ---
-[← Back to Profile](./index.html)
+[← Back to Guides Hub](../guides.html) | [Back to Profile](../index.html)
+
 
