@@ -13,6 +13,6 @@ Welcome to my documentation hub. Here, I break down custom modifications, electr
 * 🛠️ *[Upcoming] Sheet Metal Shaping and Classic Panel Restoration*
 
 ---
-[← Back to Profile](index.md)
+[← Back to Profile](./)
 
 
