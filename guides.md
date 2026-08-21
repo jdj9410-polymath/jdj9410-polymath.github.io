@@ -2,8 +2,9 @@
 Welcome to my documentation hub. Here, I break down custom modifications, electrical engineering workarounds, and mechanical overhauls by field of expertise.
 
 ## 🚍 Motorhome & RV Engineering
-* 📹 **[Reusing OEM Intec Rear-View Cables for Modern Camera Upgrades](./guides/intec-cable-upgrade.md)**  
+* 📹 **[Reusing OEM Intec Rear-View Cables for Modern Camera Upgrades](./guides/intec-cable-upgrade.html)**  
   *How to utilize the factory-installed Intec CVM600 wiring system in a 1998 Endeavor instead of pulling 37 feet of new lines.*
+ead of pulling 37 feet of new lines.*
 * 🔋 *[Upcoming] Custom 10,000W LiFePO4 Battery Bank & Chargeverter Installation*
 
 ## 🚛 Heavy Truck & Automotive Electrical
