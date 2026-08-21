@@ -1,11 +1,11 @@
 # Classic Car Restoration & Custom Fabrication Operations
 
 ## 🏎️ Professional Summary
-Founder and Principal Operations Officer of a comprehensive, top-tier classic automobile frame-off restoration and custom vehicle fabrication enterprise. Managed highly complex engineering cycles starting with zero infrastructure blueprints (empty floor pans) up to elite, show-ready automotive applications.
+Founder and Principal Operations Officer of a comprehensive, top-tier classic automobile frame-off restoration and custom vehicle fabrication enterprise. Managed highly complex engineering cycles  starting with zero blueprints or complete donor vehicle. Have even started with empty floor and built vehicle up to elite, show-ready vehicles from scratch.
 
 ## 🧰 Business & Technical Expertise
-* **Full-Stack Fabrication:** Master-level custom metal reshaping, structural welding, sheet metal rolling, and bespoke chassis building.
-* **In-House Systems Assembly:** Design, tuning, and matching of high-horsepower performance powertrains, custom fuel delivery setups, complex electrical wire looms, and elite show-car paint/bodywork.
+* **Full-Stack Fabrication:** Master-level custom metal reshaping, structural welding, sheet metal rolling, and custom chassis building.
+* **In-House Systems Assembly:** Design, tuning, and matching of high-horsepower performance powertrains, custom fuel delivery setups, complex electrical wire harnesses, and elite show-car paint/bodywork.
 * **Enterprise Management:** Lead architect of shop production scheduling, logistics sourcing for rare vintage components, and technical workflow engineering.
 
 ## 📈 Corporate Execution
