@@ -18,6 +18,21 @@ Currently utilizing a lifetime of heavy truck and custom vehicle diagnostics to 
 Prep and modernize a 1998 Holiday Rambler Endeavor for Traveling in retirement - New airbags, new steer tires, remodel parlor area, upgrade to a multivew camera system.
 
 Lithium battery bank project] - Have purchased LiFePo 8d batteries, 10,000 watt inverter, 200 amp Chargeverter all cables fuse etc for install of components.
+## Current Motorhome Projects
+
+### 1998 Holiday Rambler Endeavor Modernization
+Prepping and updating the motorhome for retirement travel:
+* **Suspension & Safety:** Installing new airbags and new steer tires.
+* **Interior:** Remodeling the parlor area.
+* **Tech Upgrade:** Upgrading to a multiview camera system.
+
+### Lithium Battery Bank Installation
+Assembling a high-capacity power system with already-purchased components:
+* **Batteries:** LiFePO4 8D battery bank.
+* **Inverter:** 10,000-watt power inverter.
+* **Charger:** 200-amp Chargeverter.
+* **Installation:** All necessary heavy-duty cables, fuses, and hardware.
+
 
 🌐 Connect With 
 
