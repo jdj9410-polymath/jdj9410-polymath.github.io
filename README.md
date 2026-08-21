@@ -11,7 +11,7 @@ I am a former heavy truck and fire apparatus mechanic, former fire service membe
 ## Present Era & Technical Horizons
 Following an exceptional multi-decade professional run across mechanic trades, public safety, ecological sciences, and custom automotive engineering, health transitions led to formal retirement in the fall of 2025. 
 
-Currently utilizing a lifetime of heavy truck and custom vehicle diagnostics to overhaul and prep a custom **1998 Holiday Rambler 37ft Endeavor** (built on a robust **Freightliner Chassis**). This rolling mobile engineering platform serves as primary transport and operations command for extensive cross-country exploration during retirement
+Currently utilizing a lifetime of heavy truck, custom vehicle diagnostics fabrication skills to overhaul and prep a custom **1998 Holiday Rambler 37ft Endeavor** (built on a robust **Freightliner Chassis**). This rolling mobile engineering platform serves as primary transport and operations command for extensive cross-country exploration during retirement
 
 ## Current Motorhome Projects
 
