@@ -37,6 +37,6 @@ Received ASE Master Heavy Truck Certification
 * **[Fire Service](/fire-service.md)** - Emergency response, public safety, and crisis management.
 * **[Wildlife Biologist](/wildlife-biologist.md)** - Environmental research, species conservation, and ecological management.
 * **[Custom Car & Auto Restoration](/custom-cars.md)** - Custom fabrication, classic car rebuilding, and shop management.
-* **[Used Car Lot Owner](/car-lot-owner.md)** - Business operations, automotive sales, inventory sourcing, 
+* **[Used Car Lot Owner](/car-lot-owner.md)** - Business operations, automotive sales, inventory management and sourcing
 
 © 2026 Jack D. Jernigan. All rights reserved.
