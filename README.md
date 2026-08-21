@@ -39,7 +39,7 @@ Assembling a high-capacity power system with already-purchased components:
 ## 📖 Technical Guides & Documentation
 I document my custom engineering solutions, wiring workarounds, and fabrication fixes to help other enthusiasts and mechanics. 
 
-👉 **[Explore my Technical How-To Guides Hub](./guides.md)**
+👉 **[Explore my Technical How-To Guides Hub](guides.md)**
 
 
 
