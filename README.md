@@ -46,7 +46,7 @@ Assembling a high-capacity power system with already-purchased components:
   * **Current:** Fan of the World of Outlaws and High Limit sprint car series.
   * **Past Experience:** Formally built and drove dirt stock cars on and off from 1981 to 2007, spending my last six years racing in a touring modified division.
 
-* ** 🌐 Connect With **
+🌐 Connect With 
 
 
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jack-jernigan-0a87a742b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
