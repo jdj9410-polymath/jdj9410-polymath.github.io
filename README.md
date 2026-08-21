@@ -46,37 +46,7 @@ Assembling a high-capacity power system with already-purchased components:
   * **Current:** Fan of the World of Outlaws and High Limit sprint car series.
   * **Past Experience:** Formally built and drove dirt stock cars on and off from 1981 to 2007, spending my last six years racing in a touring modified division.
 
-
-# Info 
-
-Jack Dewayne Jernigan
-
-Retired and based in Northeast Texas, Paris, USA
-
-I am a former heavy truck and fire apparatus mechanic, former fire service member, former TPWD wildlfe biologist, former automotive restoration shop owner
-
-## Present Era & Technical Horizons
-Following an exceptional multi-decade professional run across mechanic trades, public safety, ecological sciences, and custom automotive engineering, health transitions led to formal retirement in the fall of 2025. 
-
-Currently utilizing a lifetime of heavy truck, automotive electrical, diagnostic and fabrication skills to overhaul and prep a custom **1998 Holiday Rambler 37ft Endeavor** (built on a robust **Freightliner Chassis**). This rolling mobile engineering platform serves as primary transport and operations command for extensive cross-country exploration during retirement
-
-## Current Motorhome Projects
-
-### 1998 Holiday Rambler Endeavor Modernization
-Prepping and updating the motorhome for retirement travel:
-* **Suspension & Safety:** Installing new airbags and new steer tires.
-* **Interior:** Remodeling the parlor area.
-* **Tech Upgrade:** Upgrading to a multiview camera system.
-
-### Lithium Battery Bank Installation
-Assembling a high-capacity power system with already-purchased components:
-* **Batteries:** LiFePO4 8D battery bank.
-* **Inverter:** 10,000-watt power inverter.
-* **Charger:** 200-amp Chargeverter.
-* **Installation:** All necessary heavy-duty cables, fuses, and hardware.
-
-
-🌐 Connect With 
+* ** 🌐 Connect With **
 
 
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jack-jernigan-0a87a742b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
