@@ -15,11 +15,6 @@ Currently utilizing a lifetime of heavy truck and custom vehicle diagnostics to 
 
 ## Current Motorhome Projects
 
-Prep and modernize a 1998 Holiday Rambler Endeavor for Traveling in retirement - New airbags, new steer tires, remodel parlor area, upgrade to a multivew camera system.
-
-Lithium battery bank project] - Have purchased LiFePo 8d batteries, 10,000 watt inverter, 200 amp Chargeverter all cables fuse etc for install of components.
-## Current Motorhome Projects
-
 ### 1998 Holiday Rambler Endeavor Modernization
 Prepping and updating the motorhome for retirement travel:
 * **Suspension & Safety:** Installing new airbags and new steer tires.
