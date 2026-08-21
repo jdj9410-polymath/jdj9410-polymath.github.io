@@ -38,7 +38,8 @@ The original factory harness is a gray-sheathed bundle utilizing **#1122 Molex 1
 <p align="center">
   <img src="dash-wiring.jpg" alt="Factory Loom Under Dash" width="400">
   <img src="molex-face-hand.jpg" alt="12-Pin Molex Plug Face" width="400"><br>
-  <em>Figure 2: Left—Factory wiring bundle tucked under the dash. Right—Square face of the 12-pin Molex plug assembly.</em>
+  <em>Figure 2: Upper—Factory wiring 
+    with front molex connector tucked under the dash. Lower—Square face of the 12-pin Molex female rear plug assembly.</em>
 </p>
 
 The cable bundle internally contains **three distinct shielded coaxial cables** and basic power conductors:
