@@ -7,7 +7,7 @@
 ---
 
 ### 📋 Project Overview
-Running a new 37-foot camera cable from the rear cap to the front dash of a diesel pusher is a notoriously difficult task. This guide documents how to repurpose the factory-installed gray-sheathed OEM Intec wiring harness to run up to three high-definition (1080p AHD) cameras, completely bypassing the need to fish new lines through the chassis.
+Running a new 37-foot camera cable from the rear cap to the front dash of a diesel pusher is a notoriously difficult task. This guide documents how to repurpose the factory-installed gray-sheathed OEM Intec CVM system wiring harness to run up to three high-definition (1080p AHD) cameras, completely bypassing the need to fish new lines through the chassis.
 
 <p align="center">
   <img src="dash-monitor-new.jpg" alt="Upgraded TFT Color Monitor Mounted on Dash" width="550"><br>
