@@ -71,7 +71,7 @@ Split the single 12V positive (Red) and ground (Black) wires from the OEM bundle
 <p align="center">
   <img src="old-monitor-adapter.jpg" alt="Bench Assembly with Old Monitor" width="400">
   <img src="adapter-front.jpg" alt="Completed Custom Y-Adapter" width="400"><br>
-  <em>Figure 4: Left—Bench configuration next to the legacy monitor. Right—Completed custom workbench Y-adapter transitioning from Molex to GX12.</em>
+  <em>Figure 4: Upper—Bench configuration next to the legacy monitor. Lower—Completed custom workbench front Y-adapter transitioning from Molex 12 pin to GX12 four pin.</em>
 </p>
 
 #### GX12 4-Pin Aviation Terminal Blueprint
