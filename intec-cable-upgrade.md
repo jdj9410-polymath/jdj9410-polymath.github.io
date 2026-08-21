@@ -72,5 +72,5 @@ On this specific overhaul, the 3-channel setup was split across the factory and 
 **Result:** The upgraded 1080p AHD color monitor replaces the original monochrome Intec CVM600 unit perfectly. The video feeds display zero interference, no static, and crystal-clear image definition across all cameras.
 
 ---
-[← Back to Guides Hub](../guides.md) | [Back to Profile](../index.md)
+[← Back to Guides Hub](../guides) | [Back to Profile](../)
 
