@@ -66,7 +66,7 @@ However, if you are configuring a **two-camera rear setup** (e.g., Backup + Hitc
 ### 🔌 Pin Mapping & Custom Adapter Wiring
 Instead of soldering difficult connections under the dash or cramped inside overhead cabinets, it is highly recommended to build custom **"Y-Adapters"** on your workbench. 
 
-Split the single 12V positive (Red) and ground (Black) wires from the OEM bundle at both the front and rear adapters to feed both cameras.
+Split the single 12V positive (Red) and ground (Black) wires from the OEM bundle at both the front and rear adapters to feed both cameras for two camera system.  No need to split for single rear camera.
 
 <p align="center">
   <img src="old-monitor-adapter.jpg" alt="Bench Assembly with Old Monitor" width="400">
